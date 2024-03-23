@@ -1,0 +1,4 @@
+tqdm
+gymnasium
+gymnasium[box2d]
+PyQt5
